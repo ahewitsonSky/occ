@@ -2,6 +2,7 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "occ-components": "libs/occ-components",
     "occ-spike": "apps/occ-spike",
     "occ-spike-e2e": "apps/occ-spike-e2e"
   }
